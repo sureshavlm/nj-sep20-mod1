@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John, David",
+        "dept": "IT",
+        "Salary": 100000,
+        "gender": "Male"
+    },
+    {
+        "name": "Mark, Peter",
+        "dept": "HR",
+        "Salary": 100000,
+        "gender": "Male"
+    }
+]
